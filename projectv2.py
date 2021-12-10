@@ -181,7 +181,7 @@ output.disable_custom_widget_manager()
 
 import gmaps
 import gmaps.geojson_geometries
-gmaps.configure(api_key='AIzaSyCpc1HUbAwT-sumTzk6XHJtVEJVV7eeYsM')
+gmaps.configure(api_key='_______')
 
 countries_geojson = gmaps.geojson_geometries.load_geometry('countries')
 
